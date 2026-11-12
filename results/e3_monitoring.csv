@@ -1,0 +1,4 @@
+strategy,success_rate,mean_steps,mean_replans
+blind,0.278,1,0
+robust,1,2,0
+monitor,1,1.722,0.723

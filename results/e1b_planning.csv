@@ -1,0 +1,9 @@
+depth,contraction,generated,max_worlds,seconds
+2,True,13,8,0.02
+2,False,13,8,0.004
+3,True,22,10,0.04
+3,False,40,16,0.022
+4,True,25,10,0.055
+4,False,121,32,0.185
+5,True,25,10,0.049
+5,False,364,64,0.576
